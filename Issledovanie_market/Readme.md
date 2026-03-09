@@ -4,5 +4,5 @@
 
 |  #  | Наименование проекта        | Выводы  | Навыки и инструменты
 |:----|:--------------------------- |:--------|:--------------------
-|  1. | [Фундаментальный анализ компаний добычи нефти и газа.](https://github.com/AlexandreFyodorov/My_Research_Projects/blob/main/Issledovanie_market/analys_oil_gas.ipynb) | [Результат отбора сектора добычи нефти и газа.]()| Python, Pandas, Mathplotlob, barplot, boxplot, scatterplot, круговые диаграммы (pie), исследовательский анализ данных.
+|  1. | [Фундаментальный анализ компаний добычи нефти и газа.](https://github.com/AlexandreFyodorov/My_Research_Projects/blob/main/Issledovanie_market/analys_oil_gas.ipynb) | [Результат отбора сектора добычи нефти и газа.](https://github.com/AlexandreFyodorov/My_Research_Projects/blob/main/Issledovanie_market/Results/analys_oil_gas_results.ipynb)| Python, Pandas, Mathplotlob, barplot, boxplot, scatterplot, круговые диаграммы (pie), исследовательский анализ данных.
 |  2. | [Фундаментальный анализ компаний добычи нефти и газа.]() | [Результат отбора сектора добычи нефти и газа.]()| Python, Pandas, Mathplotlob, barplot, boxplot, scatterplot, круговые диаграммы (pie), исследовательский анализ данных.
