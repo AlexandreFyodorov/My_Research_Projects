@@ -9,6 +9,12 @@
 - **Биржевая статистика** – данные из терминала QUIK (обороты, заявки, free float);
 - **Секторальная принадлежность** – информация об отраслях компаний.
 
+|  #  | Наименование проекта        | Выводы  | Фавориты
+|:----|:--------------------------- |:--------|:--------------------
+|  1. | [Фундаментальный анализ сектора добычи нефти и газа.](https://github.com/AlexandreFyodorov/My_Research_Projects/blob/main/Issledovanie_market/analys_oil_gas.ipynb) | [Результат отбора сектора добычи нефти и газа.](https://github.com/AlexandreFyodorov/My_Research_Projects/blob/main/Issledovanie_market/Results/analys_oil_gas_results.ipynb)| SNGSP, BANEP, LKOH, ROSN, NVTK, TATNP
+|  2. | [Фундаментальный анализ финансового сектора.](https://github.com/AlexandreFyodorov/My_Research_Projects/blob/main/Issledovanie_market/analys_banks.ipynb) | [Результат отбора лучших финансовых компаний.](https://github.com/AlexandreFyodorov/My_Research_Projects/blob/main/Issledovanie_market/Results/analys_banks_results.ipynb)| SFIN, VTBR, BSPB, SBER, MBNK, SVCB
+|  3. | [Фундаментальный анализ сырьевого сектора.](https://github.com/AlexandreFyodorov/My_Research_Projects/blob/main/Issledovanie_market/analys_material.ipynb) | [Результат отбора лучших сырьевых компаний.](https://github.com/AlexandreFyodorov/My_Research_Projects/blob/main/Issledovanie_market/Results/analys_material_results.ipynb)| LNZL, NLMK, MAGN, ALRS, SELG, CHMF, UGLD, MTLR, PLZL, GMKN, URKZ, BRZL
+
 Скрипт реализует полный цикл обработки: фильтрация ликвидных бумаг, расчёт мультипликаторов, построение интегрального рейтинга, экспорт результатов в **CSV**.
 **Используемые технологии:** Python, Pandas, Matplotlib (barplot, boxplot, scatterplot, круговые диаграммы), исследовательский анализ данных.
 В результате выполнения скрипта формируется комплексная аналитика по заданной выборке компаний.
@@ -25,8 +31,3 @@
 
 **Сравнительная оценка внутри секторов.**  
 Все ключевые метрики анализируются в разрезе секторов, что позволяет корректно сравнивать компании одной отрасли.
-
-|  #  | Наименование проекта        | Выводы  | Фавориты
-|:----|:--------------------------- |:--------|:--------------------
-|  1. | [Фундаментальный анализ сектора добычи нефти и газа.](https://github.com/AlexandreFyodorov/My_Research_Projects/blob/main/Issledovanie_market/analys_oil_gas.ipynb) | [Результат отбора сектора добычи нефти и газа.](https://github.com/AlexandreFyodorov/My_Research_Projects/blob/main/Issledovanie_market/Results/analys_oil_gas_results.ipynb)| SNGSP, BANEP, LKOH, ROSN, NVTK, TATNP
-|  2. | [Фундаментальный анализ финансового сектора.](https://github.com/AlexandreFyodorov/My_Research_Projects/blob/main/Issledovanie_market/analys_banks.ipynb) | [Результат отбора лучших финансовых компаний.](https://github.com/AlexandreFyodorov/My_Research_Projects/blob/main/Issledovanie_market/Results/analys_banks_results.ipynb)| SFIN, VTBR, BSPB, SBER, MBNK, SVCB
