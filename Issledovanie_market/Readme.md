@@ -4,7 +4,9 @@
 
 |  #  | Наименование сектора экономики        | Выводы  | Фавориты
 |:----|:--------------------------- |:--------|:--------------------
-|  1. | [Финальный инвестиционный отчёт: Дивидендная стратегия](https://github.com/AlexandreFyodorov/My_Research_Projects/blob/main/Issledovanie_market/Results/analys_dividend_strategy.ipynb) | [Результат отбора инструментов](https://github.com/AlexandreFyodorov/My_Research_Projects/blob/main/Issledovanie_market/Results/analys_dividend_strategy.ipynb)| Основной портфель (50%): равные доли в ядре (SNGSP, LKOH, VTBR, SBER, NMTP, CNRU, IRAO). Спекулятивная часть (30%): BANEP, TATNP, BSPB, SFIN, MTSS, HEAD, LSRG, MSNG. Ожидание коррекции (20%): сетевые энергетики с RSI 70 (MRKP, MSRS и др.) – покупать при снижении на 10-15%.
+|  1. | [Финальный инвестиционный отчёт: Дивидендная стратегия](https://github.com/AlexandreFyodorov/My_Research_Projects/blob/main/Issledovanie_market/Results/analys_dividend_strategy.ipynb) | [Результат отбора инструментов](https://github.com/AlexandreFyodorov/My_Research_Projects/blob/main/Issledovanie_market/Results/analys_dividend_strategy.ipynb)| Основной портфель (50%): равные доли в ядре (SNGSP, LKOH, VTBR, SBER, NMTP, CNRU, IRAO). 
+Спекулятивная часть (30%): BANEP, TATNP, BSPB, SFIN, MTSS, HEAD, LSRG, MSNG. 
+Ожидание коррекции (20%): сетевые энергетики с RSI 70 (MRKP, MSRS и др.) – покупать при снижении на 10-15%.
 
 Здесь собраны анализы и выводы по секторам экономики.  
 **Автоматизированная система поэтапного анализа финансового состояния и инвестиционной привлекательности** российских публичных компаний.
