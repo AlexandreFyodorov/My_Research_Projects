@@ -1,10 +1,11 @@
-# Фундаментальный анализ акций ММВБ 
+# Фундаментальный анализ рынка ММВБ 
 
-# Анализ инвестиционной привлекательности российских публичных компаний
+# Анализ инвестиционной привлекательности российских публичных компаний и облигаций
 
 |  #  | Наименование сектора экономики        | Выводы  | Фавориты
 |:----|:--------------------------- |:--------|:--------------------
 |  1. | [Финальный инвестиционный отчёт: Дивидендная стратегия](https://github.com/AlexandreFyodorov/My_Research_Projects/blob/main/Issledovanie_market/Results/analys_dividend_strategy.ipynb) | [Результат отбора инструментов](https://github.com/AlexandreFyodorov/My_Research_Projects/blob/main/Issledovanie_market/Results/analys_dividend_strategy_results.ipynb)| - Основной портфель (50%): равные доли в ядре (SNGSP, LKOH, VTBR, SBER, NMTP, CNRU, IRAO).<br> - Спекулятивная часть (30%): BANEP, TATNP, BSPB, SFIN, MTSS, HEAD, LSRG, MSNG.<br> - Ожидание коррекции (20%): сетевые энергетики с RSI 70 (MRKP, MSRS и др.) – покупать при снижении на 10-15%.
+|  2. | [Финальный инвестиционный отчёт: Облигационная стратегия](https://github.com/AlexandreFyodorov/My_Research_Projects/blob/main/Issledovanie_market/analys_corporat_obligat.ipynb) | [Результат отбора инструментов](https://github.com/AlexandreFyodorov/My_Research_Projects/blob/main/Issledovanie_market/Results/analys_corporat_obligat_results.ipynb)| - Топ-5 облигаций по соотношению YTM/дюрация: ВымпелК1Р3 (ВымпелКом), РЖД 1Р-15R (РЖД), СберИОС511 (Сбербанк), ВымпелК1Р4 (ВымпелКом) , ГазпромКP6 (Газпром). Ожидаемая YTM: 23–29%
 
 Здесь собраны анализы и выводы по секторам экономики.  
 **Автоматизированная система поэтапного анализа финансового состояния и инвестиционной привлекательности** российских публичных компаний.
